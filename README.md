@@ -1,1 +1,1 @@
-/Collaboration/index.html
+\Collaboration/index.html
